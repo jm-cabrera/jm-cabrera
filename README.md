@@ -8,3 +8,14 @@ I've been working as a front-end developer for 3 years but left that to manage a
 I'm also a wine world lover and a powerlifting enthusiast
 
 You can reach me on [Twitter](https://twitter.com/jm_cabreras)
+
+## Path:
+
+- [x] Scientific Computing with Python Freecodecamp
+- [x] Codecademy Python 3
+- [x] Basic projects
+- [x] Data Manipulation with Pandas and Numpy
+- [x] Data Visualization with Matplotlib
+- [ ] EDA and PowerBi implementation projects
+- [ ] SKlearn models
+- [ ] PySpark
