@@ -14,6 +14,6 @@ I'm also a wine world lover and a powerlifting enthusiast
 - [x] Basic projects
 - [x] Data Manipulation with Pandas and Numpy
 - [x] Data Visualization with Matplotlib
-- [ ] EDA and PowerBi implementation projects
+- [ ] EDA and BI implementation projects
 - [ ] SKlearn models
 - [ ] PySpark
